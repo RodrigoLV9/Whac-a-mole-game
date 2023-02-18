@@ -1,0 +1,17 @@
+.grid {
+	width: 500px;
+	height: 300px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.square {
+	height: 150px;
+	width: 150px;
+	border: solid black 1px;
+}
+
+.mole {
+	background-image: url("https://raw.githubusercontent.com/kubowania/whac-a-mole/master/mole.jpg");
+	background-size: cover;
+}
